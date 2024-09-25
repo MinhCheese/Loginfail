@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139562668651",
+    "firebase_url": "https://demologin-df3be-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demologin-df3be",
+    "storage_bucket": "demologin-df3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139562668651:android:32cc19843803ea131ad72e",
+        "android_client_info": {
+          "package_name": "com.AntiFacebookConsole.Login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139562668651-3smbq5atc86d42iqo43lt23qssan9j2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AntiFacebookConsole.Login",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "139562668651-hg80f070d7o2p0bf2ddqc035ct51d2un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0mbe9Ih5DXOb_9swhJr9JOINdWe2KWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139562668651-3ohockrnkmmjpsad9fv175lb648viqe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
